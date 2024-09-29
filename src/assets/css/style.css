@@ -31,6 +31,7 @@
     font-weight: bold;
     padding: 8px 0;
     text-decoration: none;
+    display: block;
 }
 .back-block__header img {
     position: relative;
